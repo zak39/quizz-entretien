@@ -1,5 +1,12 @@
 # Quizz 8
 
+Avant de faire le quizz, il sera nécessaire d'installer composer et d'exécuter les commandes suivantes :
+
+```bash
+cd quizz8
+composer dump-autoload
+```
+
 Quand j'exécute le programme avec la commande suivante :
 
 ```bash
