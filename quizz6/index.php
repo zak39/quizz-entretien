@@ -26,6 +26,6 @@ abstract class Personnage implements Origin {
     }
 }
 
-$snake = new Personnage("Arthas");
-print($snake->getName() . "\n");
-print($snake->getOrigin() . "\n");
+$arthas = new Personnage("Arthas");
+print($arthas->getName() . "\n");
+print($arthas->getOrigin() . "\n");

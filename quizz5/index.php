@@ -23,6 +23,6 @@ class Personnage implements Origin {
 
 }
 
-$snake = new Personnage("Thrall");
-print($snake->getName() . "\n");
-print($snake->getOrigin() . "\n");
+$thrall = new Personnage("Thrall");
+print($thrall->getName() . "\n");
+print($thrall->getOrigin() . "\n");
