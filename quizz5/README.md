@@ -6,7 +6,7 @@ Quand j'exécute ce code :
 php quizz5/index.php 
 ```
 
-J'obtien cette erreur :
+j'obtiens cette erreur :
 
 ```
 PHP Fatal error:  Class Personnage contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Origin::getOrigin) in /home/zak/Documents/code/quizz-entretien/quizz5/index.php on line 7

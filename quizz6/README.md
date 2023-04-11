@@ -6,7 +6,7 @@ Quand j'exécute ce code :
 php quizz6/index.php 
 ```
 
-J'obtien cette erreur :
+j'obtiens cette erreur :
 
 ```
 PHP Fatal error:  Uncaught Error: Cannot instantiate abstract class Personnage in /home/zak/Documents/code/quizz-entretien/quizz6/index.php:29

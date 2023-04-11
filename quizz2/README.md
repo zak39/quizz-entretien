@@ -6,7 +6,7 @@ Quand j'exécute ce code :
 php quizz2/index.php 
 ```
 
-J'obtien cette erreur :
+j'obtiens cette erreur :
 
 ```
 PHP Warning:  A non-numeric value encountered in /home/zak/Documents/code/quizz-entretien/quizz2/index.php on line 4

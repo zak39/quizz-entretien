@@ -6,7 +6,7 @@ Quand j'exécute ce code :
 php quizz1/index.php 
 ```
 
-J'obtien ce résultat :
+j'obtiens ce résultat :
 
 ```
 function sayHello() {

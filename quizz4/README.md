@@ -6,7 +6,7 @@ Quand j'exécute ce code :
 php quizz4/index.php 
 ```
 
-J'obtien cette erreur :
+j'obtiens cette erreur :
 
 ```
 PHP Fatal error:  Uncaught TypeError: Return value of Personnage::getName() must be of the type string, none returned in /home/zak/Documents/code/quizz-entretien/quizz4/index.php:14

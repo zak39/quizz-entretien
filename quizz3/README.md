@@ -6,7 +6,7 @@ Quand j'exécute ce code :
 php quizz3/index.php 
 ```
 
-J'obtien cette erreur :
+j'obtiens cette erreur :
 
 ```
 PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/zak/Documents/code/quizz-entretien/quizz3/index.php on line 5
