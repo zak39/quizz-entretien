@@ -24,4 +24,4 @@ PHP Fatal error:  Class App\Dices\D20 contains 1 abstract method and must theref
 **Question** : 
 1. Quelle est l'erreur ?
 2. Comment corriger cette erreur ?
-3. L'erreur étant corriger. J'ai mes personnages qui ne perdent pas de point de vie. Pourquoi ? Comment corriger cela ?
+3. L'erreur étant corrigée. J'ai mes personnages qui ne perdent pas de point de vie. Pourquoi ? Comment corriger cela ?
